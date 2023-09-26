@@ -1,0 +1,7 @@
+C:\CSHARP\InventarioSillasAPI\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\CSHARP\InventarioSillasAPI\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHARP\InventarioSillasAPI\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\CSHARP\InventarioSillasAPI\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\CSHARP\InventarioSillasAPI\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\CSHARP\InventarioSillasAPI\Service\obj\Debug\net7.0\Service.MvcApplicationPartsAssemblyInfo.cs
+C:\CSHARP\InventarioSillasAPI\Service\obj\Debug\net7.0\Service.MvcApplicationPartsAssemblyInfo.cache

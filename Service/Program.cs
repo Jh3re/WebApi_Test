@@ -1,6 +1,18 @@
+using Microsoft.EntityFrameworkCore;
+using DAL;
+using LN;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<DataContext>(
+    options => options.UseSqlite(connectionString)
+);
+builder.Services.AddScoped<IChairService, ChairService>();
+builder.Services.AddScoped<IChairRepository, ChairRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

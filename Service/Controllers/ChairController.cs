@@ -4,6 +4,8 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using LN;
+using Entities;
 using Microsoft.Extensions.Logging;
 
 namespace Service.Controllers
@@ -54,7 +56,7 @@ namespace Service.Controllers
                 return StatusCode(500, "Error al crear el silla.");
             }
 
-            return CreatedAtAction(nameof(GetChairById), new { id = newChair.ID }, newChair);
+            return CreatedAtAction(nameof(GetChairById), new { id = newChair.Id }, newChair);
 
         }
 
