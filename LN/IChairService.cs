@@ -23,7 +23,7 @@ namespace LN
         {
             return await _chairRepository.GetAllChairsAsync();
         }
-        public async Task<Chair> CreateUserAsync(Chair chair)
+        public async Task<Chair> CreateChairAsync(Chair chair)
         {
             var newChair = await _chairRepository.CreateChairAsync(chair);
             return newChair;
@@ -31,6 +31,14 @@ namespace LN
         public async Task<Chair> GetChairByIdAsync(int chairId)
         {
             return await _chairRepository.GetChairByIdAsync(chairId);
+        }
+        public async Task<Chair> PutChairByIdAsync(int chairId, Chair chair)
+        {
+            return await _chairRepository.PutChairByIdAsync(chairId,chair);
+        }
+        public async Task<Chair> DeleteChairByIdAsync(int chairId)
+        {
+            return await _chairRepository.DeleteChairByIdAsync(chairId);
         }
     }
 }
