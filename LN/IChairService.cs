@@ -24,5 +24,11 @@ namespace LN
         {
             return await _chairRepository.GetAllChairsAsync();
         }
+
+        public async Task<Chair> CreateUserAsync(Chair chair)
+        {
+            var newChair = await _chairRepository.CreateChairAsync(chair);
+            return newChair;
+        }
     }
 }
