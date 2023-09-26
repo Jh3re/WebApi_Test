@@ -19,16 +19,18 @@ namespace LN
         {
             _chairRepository = chairRepository;
         }
-
         public async Task<IEnumerable<Chair>> GetAllChairsAsync()
         {
             return await _chairRepository.GetAllChairsAsync();
         }
-
         public async Task<Chair> CreateUserAsync(Chair chair)
         {
             var newChair = await _chairRepository.CreateChairAsync(chair);
             return newChair;
+        }
+        public async Task<Chair> GetChairByIdAsync(int chairId)
+        {
+            return await _chairRepository.GetChairByIdAsync(chairId);
         }
     }
 }
