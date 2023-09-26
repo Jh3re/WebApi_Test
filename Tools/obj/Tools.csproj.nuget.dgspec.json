@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj": {}
+    "C:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj": {}
   },
   "projects": {
-    "c:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj": {
+    "C:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj",
+        "projectUniqueName": "C:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj",
+        "projectPath": "C:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "c:\\CSHARP\\InventarioSillasAPI\\Tools\\obj\\",
+        "outputPath": "C:\\CSHARP\\InventarioSillasAPI\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

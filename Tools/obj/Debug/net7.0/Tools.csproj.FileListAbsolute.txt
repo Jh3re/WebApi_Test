@@ -1,0 +1,11 @@
+C:\CSHARP\InventarioSillasAPI\Tools\bin\Debug\net7.0\Tools.deps.json
+C:\CSHARP\InventarioSillasAPI\Tools\bin\Debug\net7.0\Tools.dll
+C:\CSHARP\InventarioSillasAPI\Tools\bin\Debug\net7.0\Tools.pdb
+C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.dll
+C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\refint\Tools.dll
+C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.pdb
+C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\ref\Tools.dll

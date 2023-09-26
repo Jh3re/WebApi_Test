@@ -3,7 +3,7 @@ using DAL;
 
 namespace LN
 {
-    public class IChairService
+    public interface IChairService
     {
         Task<IEnumerable<Chair>> GetAllChairsAsync();
         Task<Chair> CreateChairAsync(Chair chair);
@@ -36,7 +36,7 @@ namespace LN
         {
             return await _chairRepository.PutChairByIdAsync(chairId,chair);
         }
-        public async Task<Chair> DeleteChairByIdAsync(int chairId)
+        public async Task<Chair> DeleteChairByIdAsync(int chairId)  
         {
             return await _chairRepository.DeleteChairByIdAsync(chairId);
         }

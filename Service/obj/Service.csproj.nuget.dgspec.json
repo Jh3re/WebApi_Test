@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj": {}
+    "C:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj": {}
   },
   "projects": {
     "c:\\CSHARP\\InventarioSillasAPI\\DAL\\DAL.csproj": {
@@ -50,13 +50,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.11, )"
             }
@@ -210,14 +214,14 @@
         }
       }
     },
-    "c:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj": {
+    "C:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj",
+        "projectPath": "C:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "c:\\CSHARP\\InventarioSillasAPI\\Service\\obj\\",
+        "outputPath": "C:\\CSHARP\\InventarioSillasAPI\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -240,8 +244,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj": {
-                "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj"
+              "c:\\CSHARP\\InventarioSillasAPI\\DAL\\DAL.csproj": {
+                "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\DAL\\DAL.csproj"
               },
               "c:\\CSHARP\\InventarioSillasAPI\\LN\\LN.csproj": {
                 "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\LN\\LN.csproj"
@@ -263,7 +267,13 @@
               "target": "Package",
               "version": "[7.0.10, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
             },

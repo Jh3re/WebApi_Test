@@ -1,0 +1,17 @@
+C:\CSHARP\InventarioSillasAPI\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\CSHARP\InventarioSillasAPI\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\CSHARP\InventarioSillasAPI\DAL\bin\Debug\net7.0\DAL.dll
+C:\CSHARP\InventarioSillasAPI\DAL\bin\Debug\net7.0\DAL.pdb
+C:\CSHARP\InventarioSillasAPI\DAL\bin\Debug\net7.0\Entities.dll
+C:\CSHARP\InventarioSillasAPI\DAL\bin\Debug\net7.0\Entities.pdb
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.dll
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.pdb
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\CSHARP\InventarioSillasAPI\DAL\obj\Debug\net7.0\ref\DAL.dll

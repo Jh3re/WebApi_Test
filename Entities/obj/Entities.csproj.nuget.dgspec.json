@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj": {}
+    "C:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "c:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj": {
+    "C:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj",
+        "projectPath": "C:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "c:\\CSHARP\\InventarioSillasAPI\\Entities\\obj\\",
+        "outputPath": "C:\\CSHARP\\InventarioSillasAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,0 +1,17 @@
+C:\CSHARP\InventarioSillasAPI\LN\bin\Debug\net7.0\LN.deps.json
+C:\CSHARP\InventarioSillasAPI\LN\bin\Debug\net7.0\LN.dll
+C:\CSHARP\InventarioSillasAPI\LN\bin\Debug\net7.0\LN.pdb
+C:\CSHARP\InventarioSillasAPI\LN\bin\Debug\net7.0\DAL.dll
+C:\CSHARP\InventarioSillasAPI\LN\bin\Debug\net7.0\Entities.dll
+C:\CSHARP\InventarioSillasAPI\LN\bin\Debug\net7.0\Entities.pdb
+C:\CSHARP\InventarioSillasAPI\LN\bin\Debug\net7.0\DAL.pdb
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\LN.csproj.AssemblyReference.cache
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\LN.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\LN.AssemblyInfoInputs.cache
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\LN.AssemblyInfo.cs
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\LN.csproj.CoreCompileInputs.cache
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\LN.csproj.CopyComplete
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\LN.dll
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\refint\LN.dll
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\LN.pdb
+C:\CSHARP\InventarioSillasAPI\LN\obj\Debug\net7.0\ref\LN.dll

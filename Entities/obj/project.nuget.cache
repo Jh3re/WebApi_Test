@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k+2BD5898rgPSp7E96QaRrSrjZRsnd4+h+ltYEDytk4B5mvHoqNzxBcE7/xOTaLBkqiyBDfHgjvztsNkDYkIRQ==",
+  "dgSpecHash": "sUPizJ18AsxahEojMD5cDNyIM0+aIcZ2OfohlS9BcCuc81fGh032v+qXbRjfwfwMiop0xPf91nOpEjEWSpqT2A==",
   "success": true,
-  "projectFilePath": "c:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

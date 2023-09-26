@@ -1,0 +1,11 @@
+C:\CSHARP\InventarioSillasAPI\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\CSHARP\InventarioSillasAPI\Entities\bin\Debug\net7.0\Entities.dll
+C:\CSHARP\InventarioSillasAPI\Entities\bin\Debug\net7.0\Entities.pdb
+C:\CSHARP\InventarioSillasAPI\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHARP\InventarioSillasAPI\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\CSHARP\InventarioSillasAPI\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\CSHARP\InventarioSillasAPI\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\CSHARP\InventarioSillasAPI\Entities\obj\Debug\net7.0\Entities.dll
+C:\CSHARP\InventarioSillasAPI\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\CSHARP\InventarioSillasAPI\Entities\obj\Debug\net7.0\Entities.pdb
+C:\CSHARP\InventarioSillasAPI\Entities\obj\Debug\net7.0\ref\Entities.dll
