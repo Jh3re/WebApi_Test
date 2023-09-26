@@ -13,5 +13,10 @@ namespace Service.Controllers
     public class ChairController : Controller
     {
         private readonly IChairService _chairService;
+
+        public ChairController(IChairService chairService)
+        {
+            _chairService = chairService;
+        }
     }
 }
