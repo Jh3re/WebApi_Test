@@ -25,5 +25,18 @@ namespace Service.Controllers
             var chairs = await _chairService.GetAllChairsAsync();
             return Ok(chairs);
         }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Chair>> GetChairById(int id)
+        {
+            var chair = await _chairService.GetChairByIdAsync(id);
+
+            if (chair == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(chair);
+        }
     }
 }
