@@ -27,14 +27,29 @@ namespace DAL
         public async Task<Chair> CreateChairAsync(Chair chair)
         {
             
-            _context.Users.Add(chair);
+            _context.Chairs.Add(chair);
             await _context.SaveChangesAsync();
             return chair;
         }
         public async Task<Chair> GetChairByIdAsync(int chairId)
         {
-            var chair = await _context.Users.FindAsync(chairId);
+            var chair = await _context.Chairs.FindAsync(chairId);
 
+            return chair;
+        }
+        public async Task<Chair> PutChairByIdAsync(int chairId, Chair chair)
+        {
+            _context.Entry(chair).State = EntityState.Modified;
+            
+            await _context.SaveChangesAsync();
+
+            return chair;
+        }
+        public async Task<Chair> DeleteChairByIdAsync(int chairId)
+        {
+            var chair = await _context.Chairs.FindAsync(chairId);
+            _context.Chairs.Remove(chair);
+            await _context.SaveChangesAsync();
             return chair;
         }
     }
