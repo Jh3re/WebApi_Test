@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tools
+<<<<<<< HEAD
 build_property.ProjectDir = c:\CSHARP\InventarioSillasAPI\Tools\
+=======
+build_property.ProjectDir = c:\examen\WebApi_Test\Tools\
+>>>>>>> 099815fe9740b0f68744487bdc6f1d7fab391132
