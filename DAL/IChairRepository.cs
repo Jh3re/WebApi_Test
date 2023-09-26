@@ -12,8 +12,13 @@ namespace DAL
         Task<Chair> PutChairByIdAsync(int chairId, Chair chair);
         Task<Chair> DeleteChairByIdAsync(int chairId);
     }
-    public class IChairRepository
+    public class ChairRepository : IChairRepository
     {
-        
+        private readonly DataContext _context;
+
+        public ChairRepository(DataContext context)
+        {
+            _context = context;
+        }
     }
 }
