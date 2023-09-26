@@ -18,5 +18,12 @@ namespace Service.Controllers
         {
             _chairService = chairService;
         }
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Chair>>> GetChairs()
+        {
+            var chairs = await _chairService.GetAllChairsAsync();
+            return Ok(chairs);
+        }
     }
 }
