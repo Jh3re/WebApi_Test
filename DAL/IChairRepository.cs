@@ -20,5 +20,22 @@ namespace DAL
         {
             _context = context;
         }
+        public async Task<IEnumerable<Chair>> GetAllChairsAsync()
+        {
+            return await _context.Chairs.ToListAsync();
+        }
+        public async Task<Chair> CreateChairAsync(Chair chair)
+        {
+            
+            _context.Users.Add(chair);
+            await _context.SaveChangesAsync();
+            return chair;
+        }
+        public async Task<Chair> GetChairByIdAsync(int chairId)
+        {
+            var chair = await _context.Users.FindAsync(chairId);
+
+            return chair;
+        }
     }
 }
