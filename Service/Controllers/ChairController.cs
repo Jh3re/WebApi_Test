@@ -40,18 +40,18 @@ namespace Service.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<Chair>> CreateUser(Chair chair)
+        public async Task<ActionResult<Chair>> CreateChair(Chair chair)
         {
             if (chair == null)
             {
-                return BadRequest("Datos de usuario no validos.");
+                return BadRequest("Datos de silla no validos.");
             }
 
             var newChair = await _chairService.CreateChairAsync(chair);
 
             if (newChair == null)
             {
-                return StatusCode(500, "Error al crear el usuario.");
+                return StatusCode(500, "Error al crear el silla.");
             }
 
             return CreatedAtAction(nameof(GetChairById), new { id = newChair.ID }, newChair);
