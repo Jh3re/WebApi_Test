@@ -68,5 +68,16 @@ namespace Service.Controllers
             await _chairService.PutChairByIdAsync(id, chair);
             return Ok();
         }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<Chair>> DeleteChair(int id)
+        {
+            var chair = await _chairService.DeleteChairByIdAsync(id);
+            if (chair == null)
+            {
+                return NotFound();
+            }
+            return chair;
+        }
     }
 }
