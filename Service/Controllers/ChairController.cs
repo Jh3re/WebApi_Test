@@ -57,5 +57,16 @@ namespace Service.Controllers
             return CreatedAtAction(nameof(GetChairById), new { id = newChair.ID }, newChair);
 
         }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult<Chair>> PutUser(int id, Chair chair)
+        {
+            if (chair == null)
+            {
+                return BadRequest();
+            }
+            await _chairService.PutChairByIdAsync(id, chair);
+            return Ok();
+        }
     }
 }
