@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6RWHmbc96bTL7jC2X1s+wLjge9eVSoTyDocbQleEENVebwh7DhUpMo4HT/8OJF1EH6sVjD7/r4ZDkWj6npwr/Q==",
+  "dgSpecHash": "BgOFDlAu5wxR403NIOQUKQbWaZ7aZJJ1/1au5WyrcvHqdKRpv2Sy8cloCMzDb76SllViO/0w27qgR6ZpuJVBIA==",
   "success": true,
-  "projectFilePath": "C:\\CSHARP\\InventarioSillasAPI\\Tools\\Tools.csproj",
+  "projectFilePath": "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/Tools.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

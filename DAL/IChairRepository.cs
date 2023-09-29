@@ -25,7 +25,6 @@ namespace DAL
         }
         public async Task<Chair> CreateChairAsync(Chair chair)
         {
-            
             _context.Chairs.Add(chair);
             await _context.SaveChangesAsync();
             return chair;

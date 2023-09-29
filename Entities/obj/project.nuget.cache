@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sUPizJ18AsxahEojMD5cDNyIM0+aIcZ2OfohlS9BcCuc81fGh032v+qXbRjfwfwMiop0xPf91nOpEjEWSpqT2A==",
+  "dgSpecHash": "ku4MkrWDKpG5XFsRjzLoKy8UWvg+hvwmybg13dV8yMqtb8c42FddAwzRYGdXC+iQfQ3qVd9vxc/iKH+UXDTuMw==",
   "success": true,
-  "projectFilePath": "C:\\CSHARP\\InventarioSillasAPI\\Entities\\Entities.csproj",
+  "projectFilePath": "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Entities/Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

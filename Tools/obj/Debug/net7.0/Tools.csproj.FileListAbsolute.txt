@@ -1,11 +1,23 @@
-C:\CSHARP\InventarioSillasAPI\Tools\bin\Debug\net7.0\Tools.deps.json
-C:\CSHARP\InventarioSillasAPI\Tools\bin\Debug\net7.0\Tools.dll
-C:\CSHARP\InventarioSillasAPI\Tools\bin\Debug\net7.0\Tools.pdb
-C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
-C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
-C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
-C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
-C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.dll
-C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\refint\Tools.dll
-C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\Tools.pdb
-C:\CSHARP\InventarioSillasAPI\Tools\obj\Debug\net7.0\ref\Tools.dll
+C:/CSHARP/InventarioSillasAPI/Tools/bin/Debug/net7.0/Tools.deps.json
+C:/CSHARP/InventarioSillasAPI/Tools/bin/Debug/net7.0/Tools.dll
+C:/CSHARP/InventarioSillasAPI/Tools/bin/Debug/net7.0/Tools.pdb
+C:/CSHARP/InventarioSillasAPI/Tools/obj/Debug/net7.0/Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:/CSHARP/InventarioSillasAPI/Tools/obj/Debug/net7.0/Tools.AssemblyInfoInputs.cache
+C:/CSHARP/InventarioSillasAPI/Tools/obj/Debug/net7.0/Tools.AssemblyInfo.cs
+C:/CSHARP/InventarioSillasAPI/Tools/obj/Debug/net7.0/Tools.csproj.CoreCompileInputs.cache
+C:/CSHARP/InventarioSillasAPI/Tools/obj/Debug/net7.0/Tools.dll
+C:/CSHARP/InventarioSillasAPI/Tools/obj/Debug/net7.0/refint/Tools.dll
+C:/CSHARP/InventarioSillasAPI/Tools/obj/Debug/net7.0/Tools.pdb
+C:/CSHARP/InventarioSillasAPI/Tools/obj/Debug/net7.0/ref/Tools.dll
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/bin/Debug/net7.0/Tools.deps.json
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/bin/Debug/net7.0/Tools.dll
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/bin/Debug/net7.0/Tools.pdb
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/Tools.csproj.AssemblyReference.cache
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/Tools.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/Tools.AssemblyInfoInputs.cache
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/Tools.AssemblyInfo.cs
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/Tools.csproj.CoreCompileInputs.cache
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/Tools.dll
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/refint/Tools.dll
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/Tools.pdb
+/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Tools/obj/Debug/net7.0/ref/Tools.dll

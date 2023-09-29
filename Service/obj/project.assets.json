@@ -1775,50 +1775,39 @@
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
       "Microsoft.EntityFrameworkCore >= 7.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.11",
-      "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.11",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alumno\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/vitanova/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj",
+      "projectUniqueName": "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Service/Service.csproj",
       "projectName": "Service",
-      "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\Service\\Service.csproj",
-      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "c:\\CSHARP\\InventarioSillasAPI\\Service\\obj\\",
+      "projectPath": "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Service/Service.csproj",
+      "packagesPath": "/home/vitanova/.nuget/packages/",
+      "outputPath": "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/Service/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/vitanova/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\CSHARP\\InventarioSillasAPI\\DAL\\DAL.csproj": {
-              "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\DAL\\DAL.csproj"
+            "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/DAL/DAL.csproj": {
+              "projectPath": "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/DAL/DAL.csproj"
             },
-            "c:\\CSHARP\\InventarioSillasAPI\\LN\\LN.csproj": {
-              "projectPath": "c:\\CSHARP\\InventarioSillasAPI\\LN\\LN.csproj"
+            "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/LN/LN.csproj": {
+              "projectPath": "/home/vitanova/CURSOS/C#/WEBAPI EXAMEN/WebApi_Test/LN/LN.csproj"
             }
           }
         }
@@ -1847,10 +1836,6 @@
             "target": "Package",
             "version": "[7.0.11, )"
           },
-          "Microsoft.EntityFrameworkCore.Sqlite": {
-            "target": "Package",
-            "version": "[7.0.11, )"
-          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.5.0, )"
@@ -1875,7 +1860,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
       }
     }
   }
